@@ -27,6 +27,7 @@ Compile and fit the model and then predict.
 
 ### Name:HANUMANTH A
 ### Register Number:212222240016
+
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
